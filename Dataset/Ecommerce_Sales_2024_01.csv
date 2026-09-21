@@ -1,0 +1,13 @@
+order_item_id,order_id,order_date,customer_id,product_id,quantity,unit_price,payment_method,order_status
+90400,50160,2024-01-10,1005,222,3,1790.16,"Cash on Delivery",Delivered
+90090,50038,2024-01-11,1072,206,2,63503.70,"Net Banking",Shipped
+90091,50038,2024-01-11,1072,216,1,8848.50,"Net Banking",Shipped
+90294,50118,2024-01-17,1069,210,3,5785.35,"Net Banking",Processing
+90295,50118,2024-01-17,1069,219,3,3334.28,"Net Banking",Processing
+90436,50172,2024-01-17,1079,205,2,58355.42,UPI,Delivered
+90437,50172,2024-01-17,1079,207,3,67296.42,UPI,Delivered
+90432,50171,2024-01-24,1001,235,2,1498.47,"Net Banking",Delivered
+90433,50171,2024-01-24,1001,228,1,3969.13,"Net Banking",Delivered
+90434,50171,2024-01-24,1001,225,3,4161.41,"Net Banking",Delivered
+90435,50171,2024-01-24,1001,215,1,30443.69,"Net Banking",Delivered
+90528,50208,2024-01-26,1045,219,1,3367.42,UPI,Delivered

@@ -1,0 +1,8 @@
+order_item_id,order_id,order_date,customer_id,product_id,quantity,unit_price,payment_method,order_status
+90217,50085,2024-04-03,1009,228,3,3931.37,"Debit Card",Delivered
+90421,50167,2024-04-03,1063,204,3,52926.29,"Debit Card",Shipped
+90422,50167,2024-04-03,1063,230,2,1362.08,"Debit Card",Shipped
+90423,50167,2024-04-03,1063,209,2,2000.83,"Debit Card",Shipped
+90424,50167,2024-04-03,1063,233,2,13109.39,"Debit Card",Shipped
+90139,50055,2024-04-30,1060,232,2,1854.05,"Net Banking",Processing
+90140,50055,2024-04-30,1060,219,2,3367.17,"Net Banking",Processing
