@@ -235,3 +235,26 @@ Ecommerce-Sales-Customer-Analytics/
 This project demonstrates an end-to-end analytics workflow: working with relational e-commerce data in MySQL, answering business questions through SQL, building a Power BI data model, creating DAX calculations and customer segments, designing interactive dashboards, and validating dashboard results against SQL outputs.
 
 The project was created as a portfolio project to demonstrate practical **SQL, Power BI, data analysis, and business reporting** skills.
+
+## Automated Monthly Sales Reporting
+
+Enhanced the Power BI solution with a folder-based monthly reporting workflow.
+
+### Key Features
+
+- Consolidates multiple monthly CSV files using Power BI's Folder connector.
+- Applies reusable Power Query transformations automatically to every file.
+- Cleans text values, standardizes data types and removes duplicate order-item records.
+- Tracks files loaded, rows loaded, orders, customers, sales revenue and average order value.
+- Provides file-level validation and monthly performance trends.
+- Successfully validated by adding an April 2024 CSV file and refreshing the report.
+
+### Automation Workflow
+
+1. Export a new monthly sales CSV using the required column structure.
+2. Place the file in the designated monthly sales folder.
+3. Refresh the Power BI report.
+4. Power Query automatically combines and transforms the new file.
+5. KPIs, validation tables and monthly charts update automatically.
+
+> Note: This project demonstrates folder-based refresh automation in Power BI Desktop. Power BI Service scheduled refresh is not currently configured.
